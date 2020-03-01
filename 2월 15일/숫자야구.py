@@ -1,3 +1,4 @@
+#!/usr/local/bin/python3
 import random
 
 pt = random.sample(range(1, 10), 3)
